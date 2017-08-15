@@ -8,8 +8,6 @@ def fizzbuzz(n):
     else:
         return n
 
-# Tests
-
 def test_fizzbuzz():
     assert fizzbuzz(15) == 'FizzBuzz'
     assert fizzbuzz(45) == 'FizzBuzz'

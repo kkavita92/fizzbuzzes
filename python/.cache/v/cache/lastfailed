@@ -1,1 +1,6 @@
-{}
+{
+  "test_fizzbuzz.py::test_buzz": true,
+  "test_fizzbuzz.py::test_fizz": true,
+  "test_fizzbuzz.py::test_fizzbuzz": true,
+  "test_fizzbuzz.py::test_nonfizzbuzz": true
+}
